@@ -1,4 +1,4 @@
-# hacker algorithm study
+# Hacker Algorithm Study
 
 ## Github Organization 생성 
 * **"HackerAlgorithm"** organization 생성
